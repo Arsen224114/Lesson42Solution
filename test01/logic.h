@@ -1,0 +1,1 @@
+int calculate_product_between_extreme_elemens(int* array, int size);
