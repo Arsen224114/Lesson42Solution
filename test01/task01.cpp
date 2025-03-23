@@ -1,3 +1,5 @@
+#include "logic.h"
+
 int  get_extreme_index(int* array, int size, bool type) {
 	int index = 0;
 
